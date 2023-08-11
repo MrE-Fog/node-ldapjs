@@ -35,7 +35,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "6.1.1",
     "front-matter": "^4.0.2",
-    "get-port": "^5.1.1",
+    "get-port": "^7.0.0",
     "highlight.js": "^11.7.0",
     "marked": "^5.1.2",
     "tap": "^16.3.7"
